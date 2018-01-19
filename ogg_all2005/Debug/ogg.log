@@ -1,0 +1,33 @@
+﻿cl : コマンド ライン warning D9035: オプション 'Zc:forScope-' の使用は現在推奨されていません。今後のバージョンからは削除されます。
+  mp3info.cpp
+c:\microsoft sdks\windows\v7.0\include\sal_supp.h(57): warning C4005: '__useHeader': マクロが再定義されました。
+  e:\microsoft visual studio 14.0\vc\include\sal.h(2866): note: '__useHeader' の以前の定義を確認してください
+c:\microsoft sdks\windows\v7.0\include\specstrings_supp.h(77): warning C4005: '__on_failure': マクロが再定義されました。
+  e:\microsoft visual studio 14.0\vc\include\sal.h(2876): note: '__on_failure' の以前の定義を確認してください
+e:\microsoft visual studio 14.0\vc\atlmfc\include\atlcore.h(644): error C2039: 'SetDefaultDllDirectories': '`global namespace'' のメンバーではありません。
+e:\microsoft visual studio 14.0\vc\atlmfc\include\atlcore.h(644): error C2065: 'SetDefaultDllDirectories': 定義されていない識別子です。
+e:\microsoft visual studio 14.0\vc\atlmfc\include\atlcore.h(646): error C2065: 'LOAD_LIBRARY_SEARCH_SYSTEM32': 定義されていない識別子です。
+  ListCtrlA.cpp
+c:\microsoft sdks\windows\v7.0\include\sal_supp.h(57): warning C4005: '__useHeader': マクロが再定義されました。
+  e:\microsoft visual studio 14.0\vc\include\sal.h(2866): note: '__useHeader' の以前の定義を確認してください
+c:\microsoft sdks\windows\v7.0\include\specstrings_supp.h(77): warning C4005: '__on_failure': マクロが再定義されました。
+  e:\microsoft visual studio 14.0\vc\include\sal.h(2876): note: '__on_failure' の以前の定義を確認してください
+e:\microsoft visual studio 14.0\vc\atlmfc\include\atlcore.h(644): error C2039: 'SetDefaultDllDirectories': '`global namespace'' のメンバーではありません。
+e:\microsoft visual studio 14.0\vc\atlmfc\include\atlcore.h(644): error C2065: 'SetDefaultDllDirectories': 定義されていない識別子です。
+e:\microsoft visual studio 14.0\vc\atlmfc\include\atlcore.h(646): error C2065: 'LOAD_LIBRARY_SEARCH_SYSTEM32': 定義されていない識別子です。
+  LinkStatic.cpp
+c:\microsoft sdks\windows\v7.0\include\sal_supp.h(57): warning C4005: '__useHeader': マクロが再定義されました。
+  e:\microsoft visual studio 14.0\vc\include\sal.h(2866): note: '__useHeader' の以前の定義を確認してください
+c:\microsoft sdks\windows\v7.0\include\specstrings_supp.h(77): warning C4005: '__on_failure': マクロが再定義されました。
+  e:\microsoft visual studio 14.0\vc\include\sal.h(2876): note: '__on_failure' の以前の定義を確認してください
+e:\microsoft visual studio 14.0\vc\atlmfc\include\atlcore.h(644): error C2039: 'SetDefaultDllDirectories': '`global namespace'' のメンバーではありません。
+e:\microsoft visual studio 14.0\vc\atlmfc\include\atlcore.h(644): error C2065: 'SetDefaultDllDirectories': 定義されていない識別子です。
+e:\microsoft visual studio 14.0\vc\atlmfc\include\atlcore.h(646): error C2065: 'LOAD_LIBRARY_SEARCH_SYSTEM32': 定義されていない識別子です。
+  Id3tagv2.cpp
+c:\microsoft sdks\windows\v7.0\include\sal_supp.h(57): warning C4005: '__useHeader': マクロが再定義されました。
+  e:\microsoft visual studio 14.0\vc\include\sal.h(2866): note: '__useHeader' の以前の定義を確認してください
+c:\microsoft sdks\windows\v7.0\include\specstrings_supp.h(77): warning C4005: '__on_failure': マクロが再定義されました。
+  e:\microsoft visual studio 14.0\vc\include\sal.h(2876): note: '__on_failure' の以前の定義を確認してください
+e:\microsoft visual studio 14.0\vc\atlmfc\include\atlcore.h(644): error C2039: 'SetDefaultDllDirectories': '`global namespace'' のメンバーではありません。
+e:\microsoft visual studio 14.0\vc\atlmfc\include\atlcore.h(644): error C2065: 'SetDefaultDllDirectories': 定義されていない識別子です。
+e:\microsoft visual studio 14.0\vc\atlmfc\include\atlcore.h(646): error C2065: 'LOAD_LIBRARY_SEARCH_SYSTEM32': 定義されていない識別子です。
